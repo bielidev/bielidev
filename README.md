@@ -1,54 +1,66 @@
 
 ---
 
-# 👋 ¡Hola! Soy Carol  
+# 🥷 Carol – The Way of Code 🌸  
 
-### 🚀 Desarrolladora Junior | 🚧 Construyendo el Futuro, Una Línea de Código a la Vez  
+### ⚔️ Junior Developer | Walking the Path of the Digital Samurai   
 
-![Programmer Cat](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJvYndpbGt5eGUwbzVqYzhtbW9ycjFpNWo5OXhydzZ6Z2dkdmE3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6xF5M2Ht4eKdO0/giphy.gif)
+![Samurai Cat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR4c3BiNmZ6MnkwaXphbjZhdTVudXh2aXg4NDFmNWkzMWZhYmxlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif)
 
-Bienvenid@s a mi repositorio de GitHub. Aquí comparto mi viaje en el mundo del desarrollo de software. Estoy aprendiendo, experimentando y creciendo cada día. 🌱  
-
----
-
-## 👨‍💻 Sobre mí  
-- 📚 Actualmente aprendiendo **React**.  
-- 🛠️ Apasionada por resolver problemas y construir proyectos creativos.  
-- 💡 Siempre dispuesta a aprender nuevas habilidades y colaborar en proyectos.  
-- 🌍 Ubicada en **BCN**. 
-- 😻 Cat lover.
+> “Even the most complex code can be cut by the blade of perseverance.” – Code Samurai Wisdom 
 
 ---
 
-## 🧰 Tecnologías y Herramientas  
+## 🥋 The Path of the Developer  
+- 📚 Currently learning the art of **React**.   
+- 🛠️ Striving for efficiency in every line of code.  
+- 🤝 Ready to join forces and learn through collaboration.
+- 🏯 Based in **Barcelona**. 
+- 😻 Guided by feline spirits along the way.
+
+const carol = {
+  rank: 'Junior Dev 🧑‍💻',
+  dojo: '🏙️ Barcelona',
+  skills: ['HTML', 'CSS', 'JavaScript', 'Vue', 'React', 'PostgreSQL', 'Tailwind'],
+  motto: "Code. Coffee. Repeat. ☕"
+}
+---
+
+## 🧰 Tools of my inventory 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 
-## 🔥 Proyectos en los que he colaborado  
+## 🗺️ Completed Missions
 
-🎨 **[Game Swap](https://github.com/bielidev/M12GameSwap)**: 
+🎮 **[Game Swap](https://github.com/bielidev/M12GameSwap)**: 
 ```javascript
-const description = "Plataforma de Compraventa de Videojuegos y Consolas"
+const mission = "Forge a marketplace where warriors of gaming trade their legendary relics. 🎮⚔️"
 ```
 
 💻 **[Rainbow Voyage](https://github.com/bielidev/M12-RainbowVoyage)**: 
 ```javascript
-const description = "Una web para una agencia de viajes cuyo principal target es la comunidad LGTBIQA+ "
-```  
+const mission = "Build a sanctuary for diverse travelers, guiding them to new horizons. 🌈✈️"
+```
+
+🩸 **[Death Speedrun](https://death-speedrun.vercel.app/)**  
+```javascript
+const mission = "Forge a companion for the bravest warriors — a Death Counter that chronicles every fall and every rise in the harsh lands of the Souls universe. ☠️⚔️"
+```
 ---
 
-## 📈 Mi GitHub Stats  
+## 📈 Chronicle of My Progress
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=bielidev&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bielidev&layout=compact&theme=radical)  
 
 ---
 
-## 🤝 ¡Conéctate conmigo!  
+## 🪶 Join My Clan – Let's Connect 
 - 🐦 [Twitter](https://x.com/bielidev)  
-- 💼 [Linkedin](https://www.linkedin.com/in/carolinablancog/)  
+- 💼 [Linkedin](https://www.linkedin.com/in/carolinablancog/)
+- 🌐 [Portfolio]([https://www.linkedin.com/in/carolinablancog/](https://bielidev.vercel.app/))
  
-¡Espero que disfrutes explorando mis proyectos y siguiendo mi camino como desarrolladora! 🚀  
+🌸 “Code is like the wind — invisible yet powerful. Master it, and no obstacle can stand before your blade.”
 
 ---
