@@ -1,6 +1,6 @@
 # 🥷 Bielidev – The Way of Code 🌸
 
-### ⚔️ Frontend Developer | Walking the Path of the Dev
+### ⚔️ Software Developer | Walking the Path of the Dev
 
 ![Samurai Cat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR4c3BiNmZ6MnkwaXphbjZhdTVudXh2aXg4NDFmNWkzMWZhYmxlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif)
 
