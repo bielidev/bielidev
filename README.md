@@ -17,7 +17,7 @@
 ```javascript
 const carol = {
   rank: "Junior Dev 🧑‍💻",
-  dojo: "🏙️ Barcelona",
+  dojo: "🏙️ BCN",
   skills: [
     "HTML",
     "CSS",
@@ -81,6 +81,6 @@ every rise in the harsh lands of the Souls universe. ☠️⚔️"
 - 💼 [Linkedin](https://www.linkedin.com/in/carolinablancog/)
 - 🌐 [Portfolio](https://bielidev.vercel.app/)
 
-> 🌸 “Code is like the wind — invisible yet powerful. Master it, and no obstacle can stand before your blade.”
-
 ---
+
+> 🌸 “Code is like the wind — invisible yet powerful. Master it, and no obstacle can stand before your blade.”
