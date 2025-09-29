@@ -2,7 +2,7 @@
 
 ### ⚔️ Software Developer | Walking the Path of the Dev
 
-![Samurai Cat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR4c3BiNmZ6MnkwaXphbjZhdTVudXh2aXg4NDFmNWkzMWZhYmxlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif)
+![Code Cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlnaWl2NWxlMHV6bTdzNzN3d2F4Z3g5eTFya2VweGsyZDkyYTBpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
 
 > “Even the most complex code can be cut by the blade of perseverance.” – Code Samurai Wisdom
 
@@ -19,7 +19,7 @@ const carol = {
   rank: "Junior Dev 🧑‍💻",
   dojo: "🏙️ BCN",
   path: "Frontend & Fullstack",
-  motto: "Code. Coffee. Repeat. ☕",
+  motto: "Code. Coffee. Repeat",
 };
 ```
 
@@ -49,8 +49,9 @@ const carol = {
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-### 🖥️ Tools & IDEs
+### ⌨️ Version Control & IDEs
 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 
@@ -68,7 +69,7 @@ const carol = {
 ### 🖥️ Operating Systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 ---
@@ -111,9 +112,9 @@ every rise in the harsh lands of the Souls universe. ☠️⚔️"
 
 ## 🪶 Join My Clan – Let's Connect
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bielidev?style=social)](https://twitter.com/bielidev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carolinablancog/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-222?style=flat-square&logo=vercel&logoColor=white)](https://bielidev.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](mllebieli)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bielidev?style=social)](https://twitter.com/bielidev)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/mllebieli)
 
 > 🌸 “Code is like the wind — invisible yet powerful. Master it, and no obstacle can stand before your blade.”
