@@ -1,6 +1,6 @@
 # 🥷 Bielidev – The Way of Code 🌸
 
-### ⚔️ Software Developer | Walking the Path of the Dev
+### ⚔️ Software Developer & RPA Specialist | Crafting Code & Automating the Future
 
 ![Code Cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlnaWl2NWxlMHV6bTdzNzN3d2F4Z3g5eTFya2VweGsyZDkyYTBpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
 
@@ -8,17 +8,17 @@
 
 ## 🥋 The Path of the Dev
 
-- 📚 Currently learning the art of **React**.
-- 🛠️ Striving for efficiency in every line of code.
-- 🤝 Ready to join forces and learn through collaboration.
+- ⚡ Current Focus: Mastering **React** & **Intelligent Automation**.
+- 🛠️ Crafting efficient systems where code meets AI-driven automation.
+- 🤝 Collaborating to build the next generation of digital workforces.
 - 🏯 Based in **BCN**.
 - 😻 Guided by feline spirits along the way.
 
 ```javascript
 const carol = {
-  rank: "Junior Dev 🧑‍💻",
+  rank: "Software & RPA Engineer 🧑‍💻",
   dojo: "🏙️ BCN",
-  path: "Frontend & Fullstack",
+  stack: ["React", "VB.NET", "UiPath", "AI Agents"],
   motto: "Code. Coffee. Repeat",
 };
 ```
@@ -48,6 +48,10 @@ const carol = {
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-%23512bd4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🤖 Automation & Agentic RPA
+![UiPath](https://img.shields.io/badge/uipath-%23FA4616.svg?style=for-the-badge&logo=uipath&logoColor=white)
 
 ### ⌨️ Version Control & IDEs
 
