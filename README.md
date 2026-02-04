@@ -107,13 +107,6 @@ every rise in the harsh lands of the Souls universe. ☠️⚔️"
 
 ---
 
-## 📈 Chronicle of My Progress
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=bielidev&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bielidev&layout=compact&theme=radical)
-
----
-
 ## 🪶 Join My Clan – Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carolinablancog/)
