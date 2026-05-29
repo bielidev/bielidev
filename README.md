@@ -1,6 +1,6 @@
 # 🥷 Bielidev – The Way of Code 🌸
 
-### ⚔️ Software Developer & RPA Specialist | Crafting Code & Mastering the DOM
+### ⚔️ Software Developer
 ![Code Cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlnaWl2NWxlMHV6bTdzNzN3d2F4Z3g5eTFya2VweGsyZDkyYTBpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
 
 > “Even the most complex code can be cut by the blade of perseverance.” – Code Samurai Wisdom
