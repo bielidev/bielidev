@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="100%" height="24" fill="none">
+  <!-- Línea discontinua izquierda -->
+  <line x1="0" y1="12" x2="380" y2="12" stroke="#2d3748" stroke-width="1.5" stroke-dasharray="4 4" />
+  
+  <!-- Bloque central estilo terminal / chip -->
+  <rect x="420" y="4" width="60" height="16" rx="3" fill="#1e1e2e" stroke="#6366f1" stroke-width="1.5" />
+  <circle cx="435" cy="12" r="2.5" fill="#6366f1" />
+  <rect x="445" y="10.5" width="18" height="3" rx="1" fill="#8b5cf6" />
+  
+  <!-- Línea discontinua derecha -->
+  <line x1="520" y1="12" x2="900" y2="12" stroke="#2d3748" stroke-width="1.5" stroke-dasharray="4 4" />
+</svg>

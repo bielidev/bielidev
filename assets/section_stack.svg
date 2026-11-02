@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 370" width="100%" fill="none">
+  <!-- Fondo principal de la tarjeta -->
+  <rect x="2" y="2" width="946" height="366" rx="8" fill="#141520" stroke="#252838" stroke-width="1.5" />
+  <path d="M 2 10 Q 2 2 10 2 L 6 2 L 6 368 L 10 368 Q 2 368 2 360 Z" fill="#6366f1" />
+  
+  <!-- Cabecera de la sección alineada a la izquierda -->
+  <text x="30" y="32" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" fill="#717894" letter-spacing="1.5">// 02_STACK</text>
+  <line x1="25" y1="46" x2="925" y2="46" stroke="#252838" stroke-width="1" />
+
+  <!-- 1. Frontend Development -->
+  <text x="30" y="78" font-family="-apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="bold" fill="#cdd6f4">💻 Frontend Development</text>
+  
+  <g transform="translate(30, 90)">
+    <!-- JS -->
+    <rect x="0" y="0" width="92" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <rect x="4" y="4" width="16" height="16" rx="2" fill="#F7DF1E" />
+    <text x="12" y="16" font-family="sans-serif" font-size="10" font-weight="bold" fill="#000" text-anchor="middle">JS</text>
+    <text x="26" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">JavaScript</text>
+
+    <!-- TS -->
+    <rect x="98" y="0" width="92" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <rect x="102" y="4" width="16" height="16" rx="2" fill="#3178C6" />
+    <text x="110" y="16" font-family="sans-serif" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">TS</text>
+    <text x="124" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">TypeScript</text>
+
+    <!-- React -->
+    <rect x="196" y="0" width="68" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="207" cy="12" r="4.5" fill="#61DAFB" />
+    <text x="217" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">React</text>
+
+    <!-- Vue.js -->
+    <rect x="270" y="0" width="70" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <polygon points="279,7 283,15 287,7" fill="#4FC08D" />
+    <text x="292" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Vue.js</text>
+
+    <!-- Angular -->
+    <rect x="346" y="0" width="76" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <polygon points="355,6 350,17 360,17" fill="#DD0031" />
+    <text x="364" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Angular</text>
+
+    <!-- HTML5 -->
+    <rect x="428" y="0" width="70" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <rect x="432" y="4" width="16" height="16" rx="2" fill="#E34F26" />
+    <text x="440" y="16" font-family="sans-serif" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle">5</text>
+    <text x="453" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">HTML5</text>
+
+    <!-- CSS3 -->
+    <rect x="504" y="0" width="58" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="514" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">CSS3</text>
+
+    <!-- Tailwind CSS -->
+    <rect x="568" y="0" width="98" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <path d="M 575 12 Q 579 8 581 12 Q 583 16 587 12" stroke="#06B6D4" stroke-width="2" fill="none" />
+    <text x="593" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Tailwind CSS</text>
+
+    <!-- Bootstrap -->
+    <rect x="672" y="0" width="82" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="681" y="16" font-family="sans-serif" font-size="10" font-weight="bold" fill="#7952B3">B</text>
+    <text x="693" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Bootstrap</text>
+
+    <!-- shadcn/ui -->
+    <rect x="760" y="0" width="76" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="770" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">shadcn/ui</text>
+  </g>
+
+
+  <!-- 2. Backend & Databases -->
+  <text x="30" y="153" font-family="-apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="bold" fill="#cdd6f4">☕ Backend and Databases</text>
+  
+  <g transform="translate(30, 165)">
+    <!-- Java -->
+    <rect x="0" y="0" width="65" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="10" cy="12" r="4" fill="#ED8B00" />
+    <text x="20" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Java</text>
+
+    <!-- Spring Boot -->
+    <rect x="71" y="0" width="100" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="83" cy="12" r="4" fill="#6DB33F" />
+    <text x="93" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Spring Boot</text>
+
+    <!-- PostgreSQL -->
+    <rect x="177" y="0" width="95" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="189" cy="12" r="4" fill="#4169E1" />
+    <text x="199" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">PostgreSQL</text>
+
+    <!-- SQL -->
+    <rect x="278" y="0" width="55" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="288" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">SQL</text>
+
+    <!-- REST APIs -->
+    <rect x="339" y="0" width="90" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <polygon points="348,8 354,12 348,16" fill="#38BDF8" />
+    <text x="358" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">REST APIs</text>
+  </g>
+
+
+  <!-- 3. Automation & AI -->
+  <text x="30" y="228" font-family="-apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="bold" fill="#cdd6f4">🤖 Automation and AI</text>
+  
+  <g transform="translate(30, 240)">
+    <!-- UiPath -->
+    <rect x="0" y="0" width="75" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="10" cy="12" r="4" fill="#FA4616" />
+    <text x="20" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">UiPath</text>
+
+    <!-- Visual Basic -->
+    <rect x="81" y="0" width="100" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <rect x="85" y="4" width="16" height="16" rx="2" fill="#512BD4" />
+    <text x="93" y="16" font-family="sans-serif" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">.NET</text>
+    <text x="107" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Visual Basic</text>
+
+    <!-- n8n -->
+    <rect x="187" y="0" width="55" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="197" cy="12" r="4" fill="#EA4B71" />
+    <text x="206" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">n8n</text>
+
+    <!-- ChatGPT -->
+    <rect x="248" y="0" width="80" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="258" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">ChatGPT</text>
+
+    <!-- Claude -->
+    <rect x="334" y="0" width="75" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="344" cy="12" r="4" fill="#D97706" />
+    <text x="354" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Claude</text>
+
+    <!-- GitHub Copilot -->
+    <rect x="415" y="0" width="115" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="425" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">GitHub Copilot</text>
+
+    <!-- OpenCode -->
+    <rect x="536" y="0" width="90" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="546" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">OpenCode</text>
+  </g>
+
+
+  <!-- 4. Tools & Workflow -->
+  <text x="30" y="303" font-family="-apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="bold" fill="#cdd6f4">⚙️ Tools and Workflow</text>
+  
+  <g transform="translate(30, 315)">
+    <!-- Git -->
+    <rect x="0" y="0" width="55" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="10" cy="12" r="4" fill="#F05032" />
+    <text x="20" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Git</text>
+
+    <!-- GitHub -->
+    <rect x="61" y="0" width="75" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="71" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">GitHub</text>
+
+    <!-- Docker -->
+    <rect x="142" y="0" width="75" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="152" cy="12" r="4" fill="#2496ED" />
+    <text x="162" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Docker</text>
+
+    <!-- AWS -->
+    <rect x="223" y="0" width="55" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <text x="233" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">AWS</text>
+
+    <!-- Figma -->
+    <rect x="284" y="0" width="65" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="294" cy="12" r="4" fill="#F24E1E" />
+    <text x="304" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Figma</text>
+
+    <!-- Linux -->
+    <rect x="355" y="0" width="65" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <circle cx="365" cy="12" r="4" fill="#FCC624" />
+    <text x="375" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Linux</text>
+
+    <!-- Jira -->
+    <rect x="426" y="0" width="55" height="24" rx="4" fill="#000000" stroke="#2a2d3d" stroke-width="1" />
+    <polygon points="434,8 438,12 434,16" fill="#0052CC" />
+    <text x="444" y="16" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#ffffff">Jira</text>
+  </g>
+</svg>

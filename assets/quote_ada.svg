@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%" height="80" fill="none">
+  <defs>
+    <linearGradient id="quoteGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e2e" />
+      <stop offset="100%" stop-color="#13141f" />
+    </linearGradient>
+  </defs>
+  <!-- Contenedor oscuro con borde -->
+  <rect x="2" y="2" width="896" height="76" rx="8" fill="url(#quoteGrad)" stroke="#313244" stroke-width="1.5" />
+  <!-- Línea lateral morada de acento -->
+  <path d="M 2 10 Q 2 2 10 2 L 6 2 L 6 78 L 10 78 Q 2 78 2 70 Z" fill="#6366f1" />
+  
+  <!-- Texto de la Cita -->
+  <text x="36" y="34" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#cdd6f4" letter-spacing="0.5">
+    “Imagination is the Discovering Faculty.”
+  </text>
+  <!-- Autor -->
+  <text x="36" y="58" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="bold" fill="#8b5cf6" letter-spacing="1">
+    — ADA LOVELACE
+  </text>
+  
+  <!-- Detalle de píxeles retro en la esquina inferior derecha -->
+  <rect x="860" y="44" width="6" height="6" fill="#45475a" />
+  <rect x="868" y="44" width="6" height="6" fill="#6366f1" />
+  <rect x="868" y="52" width="6" height="6" fill="#8b5cf6" />
+</svg>

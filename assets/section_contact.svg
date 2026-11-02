@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="100%" fill="none">
+  <rect x="2" y="2" width="896" height="96" rx="8" fill="#141520" stroke="#252838" stroke-width="1.5" />
+  <path d="M 2 10 Q 2 2 10 2 L 6 2 L 6 98 L 10 98 Q 2 98 2 90 Z" fill="#38bdf8" />
+  <text x="25" y="28" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" fill="#717894" letter-spacing="1">// 04_CONTACT</text>
+  <line x1="25" y1="38" x2="875" y2="38" stroke="#252838" stroke-width="1" />
+  
+  <text x="25" y="62" font-family="ui-monospace, monospace" font-size="12" fill="#a6adc8">> I find genuine joy in dissecting complex systems, experimenting with new technologies, and solving intricate problems.</text>
+  <text x="25" y="80" font-family="ui-monospace, monospace" font-size="12" fill="#a6adc8">  If a project presents a good challenge or a clever architecture... it is well worth my time.</text>
+</svg>

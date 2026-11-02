@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 42" width="170" height="42" fill="none">
+  <!-- Fondo y borde con la estética de las tarjetas -->
+  <rect x="1.5" y="1.5" width="167" height="39" rx="6" fill="#141520" stroke="#252838" stroke-width="1.5" />
+  <!-- Barra lateral de acento cian -->
+  <path d="M 1.5 7.5 Q 1.5 1.5 7.5 1.5 L 5 1.5 L 5 40.5 L 7.5 40.5 Q 1.5 40.5 1.5 34.5 Z" fill="#38bdf8" />
+  <!-- Texto del botón -->
+  <text x="22" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" fill="#38bdf8" letter-spacing="0.5">🌐 Portfolio</text>
+</svg>
